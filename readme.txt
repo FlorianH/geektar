@@ -1,3 +1,6 @@
+! Warning: This code is very old and has not been maintained for a long time.
+You probably do not want to use this anymore.
+
 == Notice ==
 
 This small script is hardly documented and I am really sorry for that. When I have time I will come back and refactor my code plus add all the necessary comments.
